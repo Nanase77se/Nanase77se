@@ -26,7 +26,7 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 
 
 
-![ssgcs's github stats](https://github-readme-stats.vercel.app/api?username=ssgcs&show_icons=true&hide_border=true)
+![ssgcs's github stats](https://github-readme-stats.vercel.app/api?username=Nanase77se&show_icons=true&hide_border=true)
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Nanase77se/count.svg)
