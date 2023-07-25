@@ -5,7 +5,7 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 **↓↓↓ I like Final Fantasy XIV. And this is me. ↓↓↓**
 
 <div align="left">
-<img src=https://github.com/ssgcs/ssgcs/blob/main/img/2023-01-04_01-40-29-294_cake_creamy23.png width=40%/>
+<img src=https://github.com/Nanase77se/Nanase77se/blob/main/img/2023-01-04_01-40-29-294_cake_creamy23.png width=40%/>
 </div>
   
 **Talking about Personal Stuffs:**
@@ -26,7 +26,7 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 
 
 
-![ssgcs's github stats](https://github-readme-stats.vercel.app/api?username=Nanase77se&show_icons=true&hide_border=true)
+![Nanase77se's github stats](https://github-readme-stats.vercel.app/api?username=Nanase77se&show_icons=true&hide_border=true)
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Nanase77se/count.svg)
