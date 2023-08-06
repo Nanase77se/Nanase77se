@@ -15,7 +15,7 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 - 🗻 I will work in Tokyo as a system engineer next year;
 - 🤔 I’m trying to study to improve my English and programming skills 😭;
 - 🌞 I want to become a front-end engineer in the future;
-- 💬 I’m currently trying to build my own homepage;
+- 💬 My homepage: https://nanase77se.github.io/;
 - ⚡️ Fun fact: I love anime, manga, light novels, games, J-pop, and pro wrestling!
 - 📫 How to reach me: harukaaa537898@gmail.com;
 
