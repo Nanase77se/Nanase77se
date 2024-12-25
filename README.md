@@ -10,9 +10,8 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently studying on Hiroshima University;
-- 🌱 I’m currently learning ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat);
-- 🗻 I will work in Tokyo as a system engineer next year;
+- 🗻 I I'm currently working in Tokyo as a systems engineer;
+- 🌱 Languages and Tools: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat);
 - 🤔 I’m trying to study to improve my English and programming skills 😭;
 - 🌞 I want to become a front-end engineer in the future;
 - 💬 My homepage: https://nanase77se.github.io/;
