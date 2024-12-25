@@ -11,7 +11,7 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 **Talking about Personal Stuffs:**
 
 - 🗻 I I'm currently working in Tokyo as a systems engineer;
-- 🌱 Languages and Tools: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat);
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat), ![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat);
 - 🤔 I’m trying to study to improve my English and programming skills 😭;
 - 🌞 I want to become a front-end engineer in the future;
 - 💬 My homepage: https://nanase77se.github.io/;
@@ -21,7 +21,50 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 
 **Languages and Tools:**  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+  </a>   
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="hexo.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> 
+  </a> 
+
+
+
+
+
+
+</p>
 
 
 
