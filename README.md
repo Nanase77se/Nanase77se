@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Nanase/Nono💜
 
-Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Science. 
+Hi, I'm Nanase/Nono, a shachiku working in japan. 
 
 **↓↓↓ I like Final Fantasy XIV. And this is me. ↓↓↓**
 
@@ -40,6 +40,6 @@ Hi, I'm Nanase/Nono, a student studying for a Master's degree in Computer Scienc
 ![Nanase77se's github stats](https://github-readme-stats.vercel.app/api?username=Nanase77se&show_icons=true&hide_border=true)
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Nanase77se/count.svg)
+![](https://komarev.com/ghpvc/?username=Nanase77se&color=blue)
 
 ⭐️ From [Nanase77se](https://github.com/Nanase77se)
