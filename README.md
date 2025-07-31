@@ -10,7 +10,7 @@ Hi, I'm Nanase/Nono, a shachiku working in japan.
   
 **Talking about Personal Stuffs:**
 
-- 🗻 I I'm currently working in Tokyo as a systems engineer;
+- 🗻 I'm currently working in Tokyo as a systems engineer;
 - 🤔 I’m trying to study to improve my English and programming skills 😭;
 - 🌞 I want to become a front-end engineer in the future;
 - 💬 My homepage: https://nanase77se.github.io/;
